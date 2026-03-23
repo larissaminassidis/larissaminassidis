@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="60"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60"/>
 </div>
 
 ---
@@ -42,7 +44,7 @@
   <a href="https://discord.com/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="larissaminassidis11@gmail.com">
+  <a href="mailto:larissaminassidis11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
