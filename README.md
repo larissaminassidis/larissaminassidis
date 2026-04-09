@@ -28,7 +28,6 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de TI (Desenvolvimento de Sistemas)
 - 💡 Gosto de criar projetos criativos e funcionais
 - 📈 Sempre buscando evoluir na programação
 - 🌱 Aprendendo algo novo todos os dias
