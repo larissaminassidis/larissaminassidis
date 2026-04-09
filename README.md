@@ -1,8 +1,7 @@
 <h1 align="center">✨ Oii, eu sou a Larissa ✨</h1>
 
 <p align="center">
-  👩‍💻 17 anos • 🎓 Estudante de ADS | Full Stack em formação <br>
-💻 Tech Stack: JS • Python • HTML • CSS
+  👩‍💻 17 anos • 🎓 Estudante de ADS | Full Stack em formação. <br>
 🏗️ Transformando ideias em aplicações, do estilo ao Banco de Dados. <br>
   📚 Sempre aprendendo e criando novos projetos
 </p>
