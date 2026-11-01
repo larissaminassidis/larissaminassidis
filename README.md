@@ -11,17 +11,12 @@
 ## 💻 Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=html" height="60"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=css" height="60"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60"/>
 </div>
 
 ---
